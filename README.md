@@ -1,6 +1,5 @@
 # Ex 6.2 - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
-### Name: HARSHITHA V
-### Register Number: 212223230074
+# DATE: 30-04-2025
 
 ## AIM: 
 ### To simulate the post processing of 3d printed parts via support Removal, UV Curing & Heat Treatment.
@@ -44,6 +43,8 @@
 
 ![image](https://github.com/user-attachments/assets/f18cac40-e642-4ab7-87e5-3dabf3f5ee45)
 
+### Name: MUKESH.B
+### Register Number: 212223230128
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
